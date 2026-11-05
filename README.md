@@ -1,16 +1,32 @@
-## Hi there 👋
+# Привет 👋
 
-<!--
-**GerevichDev/GerevichDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Дмитрий, и я учусь на фронтенд-разработчика.
 
-Here are some ideas to get you started:
+Сейчас прохожу курс в Академии Эдюсон, собираю портфолио и ищу первую работу или стажировку. До этого с кодом дела не имел — так что всё, что здесь есть, написано за последние несколько месяцев, с нуля и своими руками.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Что уже умею
+
+- **HTML / CSS** - семантика, Flexbox, Grid, адаптив, mobile-first
+- **JavaScript** - DOM, события, работа с формами, fetch / async-await
+- **Git и GitHub** - коммиты, ветки, пуши (без боли, но и без фанатизма)
+- **Figma** - открыть макет и не потеряться в слоях
+- **Tilda** - делал правки в готовом сайте для реального заказчика, подключал API для форм и создавал и редактировал блоки.
+
+React пока не трогал: сначала хочу нормально закрыть базу, потом идти дальше. Так честнее.
+
+
+## Проекты
+
+**[Лендинг для экскурсий по Петербургу]
+Демо: https://gerevichdev.github.io/Eduson_Excursion_html/
+Адаптив от 320px, mobile first, BEM, подсчёт стоимости услуг на чистом JS.
+Первый проект, который я довёл до конца и задеплоил.
+
+
+## Связаться
+
+- VK: https://vk.ru/gerevich_dev
+- Telegram: @GerevichDev
+- Email: dmitry.gerevich.wm@gmail.com
+
+Если нашли баг или просто есть совет - буду благодарен. Мне сейчас важен любой фидбек.
